@@ -1,17 +1,16 @@
 
-# Greenhouse image classification
+# Mining Scene classification
 
-This repo contains code on image classification for the paper [Global area boom for greenhouse cultivation revealed by satellite mapping](https://www.researchsquare.com/article/rs-3231996/v1 'link to paper')
+This repo contains code on image classification for nickel mining
 
-The purpose is to find the presence of greenhouses globally tile by tile (a region of approximately 1 degree cell). The tiles with a positive prediction of greenhouses will be served to the [image segmentation model](https://doi.org/10.5281/zenodo.3978185 'link to paper')
- 
+The purpose is to find the presence of nickel mining grid by grid (a region of approximately 2.5 km * 2.5 km degree cell).
 ### Key features
 
-- This code splits the image chip labels with the target 'greenhouse' and background 'non-greenhouse', which were saved as csv, into training, validation and testing data.
+- This code splits the image chip labels with the target 'mining' and background 'non-mining', which were saved as csv, into training, validation and testing data.
 
 - Train model using EfficientNet backbones
 
-- Predict at 1km grid for a large area
+- Predict at 2.5km *23.5 grid
 
 
 
