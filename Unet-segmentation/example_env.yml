@@ -1,0 +1,14 @@
+name: tfnew
+# can change this to any name
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8.6
+  - gdal
+  - rasterio
+  - pandas=1.4.3
+  - geopandas = 0.11.0
+  - matplotlib
+  - scikit-learn
+  - imgaug
+  - tqdm
