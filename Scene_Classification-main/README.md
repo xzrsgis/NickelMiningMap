@@ -10,7 +10,7 @@ The purpose is to find the presence of nickel mining grid by grid (a region of a
 
 - Train model using EfficientNet backbones
 
-- Predict at 2.5km *23.5 grid
+- Predict at 2.5km *2.5 grid
 
 
 
