@@ -1,13 +1,8 @@
-# PlanetUNet
-A framework for detecting trees in satellite images using deep learning with a UNet architecture.
+# UNet-based segmentation
+A framework for detecting nickel mining areas in satellite imagery using a deep-learning U-Net architecture. 
+This model builds on the U-Net model from KU TreeSense and refines it specifically to improve the detection of mining areas.
 
-### Contributors
-```
-Ankit Kariryaa - Original design and implementation of core framework for preprocessing, training and prediction
-Sizhuo Li      - Conversion to multi-band planet images and implementation of boundary weights channel
-Florian Reiner - New structure and config workflow, support for resampling and jp2 format, postprocessing
-```
-
+------------------------------------------------------------------------------------------------------------------------------
 # Structure
 The code is structured around four main steps of the pipeline: `preprocessing.py`, `training.py`, `prediction.py` and `postprocessing.py`.  
 These steps are called from `main.py`, and rely on methods in `/core`.  
