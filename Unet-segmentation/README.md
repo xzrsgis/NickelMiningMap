@@ -45,11 +45,6 @@ Running `main.py` will run the whole pipeline of preprocessing, training, predic
 To run individual steps, either convert `main.py` to a jupyter notebook, or simply comment out the other steps.
 
 # Other functionality
-### Upsampling
-For Planet images, upsampling by a factor of 3 can give better results, which is set in `config.resample_factor`. This means that the training images are resampled during preprocessing, and prediction images are resampled before predicting.
-
-### JPEG2000 images
-To use JPEG2000 images, set `config.image_file_type=".jp2"`. This will allow preprocessing with jp2 training images, and prediction of jp2 images. Note that the preprocessed frames and the compressed output predictions will still use tif format.
 
 ### GPU selection
 For multi-GPU environments, the GPU can be specified by its CUDA id in `config.seledted_gpu`
