@@ -1,6 +1,6 @@
 # UNet-based segmentation
 A framework for detecting nickel mining areas in satellite imagery using a deep-learning U-Net architecture. 
-This model builds on the U-Net model from KU TreeSense and refines it specifically to improve the detection of mining areas.
+This model builds on the U-Net model from KU TreeSense (https://zenodo.org/records/3978185) and refines it specifically to improve the detection of mining areas.
 
 ------------------------------------------------------------------------------------------------------------------------------
 # Structure
