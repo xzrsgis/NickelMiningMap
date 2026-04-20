@@ -6,10 +6,10 @@ The code for mapping nickel mining areas across Indonesia and the Philippines us
  1. Scene classification: predicting the high probability grid with nickel mining activities.
  2. Image segmentation: conducting a segmentation of nickel mining areas for selected grids.
 
-## Map Preview
+## Preview
 Visualisation of the dataset can be found through a Google Earth Engine-based APP:https://ee-xzrs.projects.earthengine.app/view/nickelminingareamapsea
 
-## Contact US
+## Contact
 Xiaoxin Zhang (xiaoxzh@hku.hk) at the University of Hong Kong.
 
 ## Reference
