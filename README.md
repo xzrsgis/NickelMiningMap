@@ -13,7 +13,7 @@ Visualisation of the dataset can be found through a Google Earth Engine-based AP
 The high-resolution nickel areas and validation samples can be downloaded from https://doi.org/10.6084/m9.figshare.31839958
 
 ## Contact
-Xiaoxin Zhang (xiaoxzh@hku.hk) at the University of Hong Kong.
+Xiaoxin Zhang (xiaoxzh@hku.hk) at Future Urbanity & Sustainable Environment (FUSE) Lab, Division of Landscape Architecture, Faculty of Architecture, The University of Hong Kong, Hong Kong SAR, China.
 
 ## Reference
 Zhang, X., Chen, B., Descals, A., Gaveau, D., Gong, P. Nickel mining expansion in Southeast Asia threatens forests and coral reef ecosystems.
