@@ -6,6 +6,9 @@ The code for mapping nickel mining areas across Indonesia and the Philippines us
  1. Scene classification: predicting the high probability grid with nickel mining activities.
  2. Image segmentation: conducting a segmentation of nickel mining areas for selected grids.
 
+## The workflow of pre-processing and mapping
+<img width="865" height="406" alt="image" src="https://github.com/user-attachments/assets/a752a968-8855-4467-87fc-3914f9af562a" />
+
 ## Example illustration of nickel mines in Indonesia and the Philippines
 <img width="865" height="940" alt="image" src="https://github.com/user-attachments/assets/6dcba37f-522d-4ec0-be14-7ecf51445635" />
 
