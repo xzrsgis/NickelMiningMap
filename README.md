@@ -9,6 +9,9 @@ The code for mapping nickel mining areas across Indonesia and the Philippines us
 ## Preview
 Visualisation of the dataset can be found through a Google Earth Engine-based APP:https://ee-xzrs.projects.earthengine.app/view/nickelminingareamapsea
 
+## Download
+The high-resolution nickel areas and validation samples can be downloaded from https://doi.org/10.6084/m9.figshare.31839958
+
 ## Contact
 Xiaoxin Zhang (xiaoxzh@hku.hk) at the University of Hong Kong.
 
