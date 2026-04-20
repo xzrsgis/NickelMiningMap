@@ -16,4 +16,4 @@ The high-resolution nickel areas and validation samples can be downloaded from h
 Xiaoxin Zhang (xiaoxzh@hku.hk) at Future Urbanity & Sustainable Environment (FUSE) Lab, Division of Landscape Architecture, Faculty of Architecture, The University of Hong Kong, Hong Kong SAR, China.
 
 ## Reference
-Zhang, X., Chen, B., Descals, A., Gaveau, D., Gong, P. Nickel mining expansion in Southeast Asia threatens forests and coral reef ecosystems.
+Zhang, X., Chen, B., Descals, A., Gaveau, D., Gong, P. Nickel mining expansion in Southeast Asia threatens forests and coral reef ecosystems. 2026.
